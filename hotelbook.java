@@ -7,7 +7,7 @@ public class casehotelbook
 	int booked[]=new int[25];
 	void book(int id,String ac,String cot,String cable,String wifi,String laundry,int date,int s)
 	{
-		//booked[s]=1;
+	       //booked[s]=1;
 		this.date=date;
 		this.id=id;
 		this.s=s;
