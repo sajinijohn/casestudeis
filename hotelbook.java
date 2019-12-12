@@ -1,7 +1,6 @@
 package sajini;
-
-public class casehotelbook {
-	
+public class casehotelbook
+ {
 	public String ac,cot,cable,wifi,laundry;
 	int id,s;
 	int date;
