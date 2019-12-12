@@ -1,7 +1,7 @@
 package sajini;
 import java.util.Scanner;
-public class casehotelmain {
-
+public class casehotelmain
+{
 public static void main(String args[])throws NullPointerException
 {
 	String ac;
