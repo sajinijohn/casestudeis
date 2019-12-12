@@ -34,7 +34,7 @@ public class email
      System.out.println("Proof Type: "+ptype);
      System.out.println("Proof ID: "+pid);
     }
-  //method for upadting emai
+  //method for upadting email
     void update(String e)
     {
     this.email=e;
