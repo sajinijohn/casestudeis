@@ -1,7 +1,6 @@
 package sajini;
 import java.util.Scanner;
 public class casebooking {
-	
 	String ac,cot,cable,wifi,laundry;
 	int booked[]=new int[25];
 	void book(String ac,String cot,String cable,String wifi,String laundry,int c)
